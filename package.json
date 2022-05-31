@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/anchor-cable/zenn-content#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.41"
+    "zenn-cli": "^0.1.110"
   }
 }
